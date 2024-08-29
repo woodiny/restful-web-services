@@ -1,4 +1,4 @@
-package dev.woodiny.restful_web_services;
+package dev.woodiny.restfulwebservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
